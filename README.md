@@ -26,6 +26,7 @@ The project uses a custom **dark theme** with teal, blue, and green accents for 
 You can import it via **View → Themes → Browse for themes → Consultant360_Modern_Theme.json**.
 
 ### 🖼️ Screenshots
+📸 Download screenshots.zip to see all dashboard previews.
 | Page | Preview |
 |------|----------|
 | Executive Overview | ![Executive Overview](screenshots/ExecutiveOverview.png) |
