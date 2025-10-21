@@ -1,0 +1,23 @@
+{
+  "name": "Consultant 360",
+  "dataColors": [
+    "#002B5B",
+    "#2B7A78",
+    "#17252A",
+    "#3A506B",
+    "#5BC0BE",
+    "#9FB8AD",
+    "#1C2541",
+    "#3A506B",
+    "#0B132B",
+    "#5C7AEA",
+    "#E07A5F",
+    "#81B29A",
+    "#F2CC8F",
+    "#3D405B",
+    "#8D99AE"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#0B132B",
+  "tableAccent": "#2B7A78"
+}

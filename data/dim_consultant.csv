@@ -1,0 +1,31 @@
+ConsultantID,ConsultantName,Level,Practice,Location,PrimarySkill,StdBillRate,CostRate
+C001,Noah Nguyen,Analyst,Customer,Seattle,GCP,95,48.07
+C002,Maya Kim,Senior Consultant,Finance,Phoenix,AWS,175,86.57
+C003,Mia Lopez,Director,Finance,Seattle,SQL,320,146.46
+C004,Mia Johnson,Senior Consultant,Operations,Phoenix,Tableau,175,63.77
+C005,Liam Singh,Consultant,Operations,Phoenix,PMO,135,60.75
+C006,Noah Clark,Manager,Cyber,London,PMO,220,112.36
+C007,Ishan Williams,Consultant,Data & AI,Seattle,SQL,135,49.03
+C008,Ishan Garcia,Consultant,Customer,NYC,Power BI,135,71.81
+C009,Zoe Garcia,Consultant,Finance,Austin,Snowflake,135,59.46
+C010,Omar Garcia,Senior Manager,Finance,Toronto,Tableau,260,92.29
+C011,Maya Kim,Senior Consultant,Finance,London,Python,175,94.5
+C012,Ishan Lopez,Consultant,Finance,Seattle,SAP,135,62.06
+C013,Aria Davis,Senior Manager,Customer,NYC,PMO,260,97.92
+C014,Elena Nguyen,Senior Consultant,Customer,Seattle,Power BI,175,87.51
+C015,Hana Wilson,Manager,Finance,Austin,Snowflake,220,97.58
+C016,Jae Nguyen,Consultant,Cyber,NYC,Azure,135,60.5
+C017,Zoe Wilson,Consultant,Data & AI,Toronto,GCP,135,60.14
+C018,Noah Nguyen,Consultant,Cloud,NYC,GCP,135,69.87
+C019,Meera Davis,Manager,Finance,Toronto,AWS,220,90.82
+C020,Aria Nguyen,Senior Consultant,Finance,NYC,PMO,175,70.91
+C021,Mia Kim,Senior Consultant,Data & AI,Austin,SAP,175,73.6
+C022,Maya Martinez,Manager,Cyber,London,Azure,220,93.3
+C023,Omar Patel,Senior Consultant,Customer,London,GCP,175,86.43
+C024,Jae Garcia,Consultant,Operations,Austin,Power BI,135,71.72
+C025,Ravi Williams,Consultant,Operations,Phoenix,Tableau,135,67.26
+C026,Nora Chen,Senior Consultant,Cyber,Seattle,GCP,175,76.18
+C027,Nora Johnson,Senior Consultant,Data & AI,Seattle,SAP,175,79.55
+C028,Ishan Khan,Consultant,Customer,Seattle,GCP,135,47.29
+C029,Nora Singh,Analyst,Cyber,NYC,AWS,95,46.73
+C030,Ethan Singh,Senior Consultant,Cloud,Phoenix,Power BI,175,85.62

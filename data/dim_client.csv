@@ -1,0 +1,16 @@
+ClientID,ClientName,Industry,Region
+CL001,Vertex Retail,Energy,Europe
+CL002,Nimbus Telecom,Retail,Europe
+CL003,Apex Public,Telecom,Middle East
+CL004,Innova Retail,Energy,APAC
+CL005,Apex Tech,Energy,North America
+CL006,Lumina Tech,Retail,Europe
+CL007,Globex Energy,Energy,Europe
+CL008,Globex Public,Telecom,North America
+CL009,Globex Retail,Telecom,Europe
+CL010,Helios Health,Banking,North America
+CL011,Globex Energy,Telecom,APAC
+CL012,Innova Telecom,Banking,Middle East
+CL013,Lumina Health,Retail,APAC
+CL014,Lumina Holdings,Energy,Middle East
+CL015,Globex Bank,Retail,Middle East
